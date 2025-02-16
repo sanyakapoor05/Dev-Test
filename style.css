@@ -200,7 +200,7 @@ body {
   position: relative;
   width: 900px;
   height: 900px;
-  margin: -150px auto 100px; /* Increased negative top margin to move it up */
+  margin: -250px auto 100px; /* Increased negative top margin to move it up */
   padding: 20px;
   z-index: 1; /* Ensure it stays behind the content above */
 }
