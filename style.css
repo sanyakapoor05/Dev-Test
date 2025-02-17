@@ -214,6 +214,11 @@ body {
   z-index: 1; /* Ensure it stays behind the content above */
 }
 
+.process-image{
+  max-width:66px;
+  padding-bottom: 10px;
+}
+
 .circle {
   width: 500px;
   height: 300px;
