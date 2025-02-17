@@ -270,8 +270,7 @@ body {
   position: absolute;
   display: grid;
   grid-template-columns: auto 1fr;
-  align-items: center;
-  gap: 15px;
+  align-items: start;
   min-width: 300px; /* Increased from 200px */
   z-index: 5;
 }
@@ -290,7 +289,6 @@ body {
   font-size: 24px; /* Increased from 20px */
   transition: transform 0.3s ease;
   z-index: 10;
-  border: 5px solid #fff; /* Increased from 4px */
   position: relative;
 }
 
@@ -311,7 +309,7 @@ letter-spacing: 0%;
   font-size: 14px;
   color: #666;
   margin: 0;
-  line-height: 1.4; /* Added line height */
+  line-height: 1.4; 
   max-width: 220px; /* Added max-width to paragraph */
 }
 
