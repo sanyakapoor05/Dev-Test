@@ -367,8 +367,12 @@ letter-spacing: 0%;
     left: auto;
     top: auto;
     margin: 0 auto 40px;
-    width: 250px;
     height: 250px;
+  }
+
+  .process-desc{
+    font-size:25px !important;
+    line-height:30px !important;
   }
 
   .step {
@@ -382,7 +386,8 @@ letter-spacing: 0%;
     padding-left: 0;
     display: flex;
     justify-content: flex-start;
-    margin-left: 5%;
+    align-items: start !important;
+    margin-left: 8%;
   }
 
   .step-content {
