@@ -137,6 +137,15 @@ body {
   position: relative;
 }
 
+.best-for{
+  font-family: Roboto Condensed;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 25.3px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
 .nutrients {
   font-weight: bold;
   font-size: 24px;
