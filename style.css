@@ -334,7 +334,7 @@ letter-spacing: 0%;
 
 #connection-path {
   stroke-linecap: round;
-  stroke-width: 15; /* Increased from 8 */
+  stroke-width: 8; 
 }
 
 @media (max-width: 768px) {
