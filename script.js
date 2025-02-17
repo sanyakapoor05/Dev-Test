@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       // Position steps
       step.style.left = `calc(50% + ${x}px)`;
-      step.style.top = `calc(50% + ${y}px)`;
+      step.style.top = `calc(55% + ${y}px)`;
 
       const stepContent = step.querySelector(".step-content");
       const stepNumber = step.querySelector(".step-number");
