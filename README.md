@@ -5,9 +5,13 @@
 ### **Live Demo:** [View Here](https://sanyakapoor05.github.io/Dev-Test/)
 
 ## **1. Approach**
-I developed a custom Shopify section based on the Figma design provided. The section includes dynamic elements such as a circular path with numbering, custom typography, and image placements. The implementation was done using **Liquid, HTML, CSS, and JavaScript** to ensure flexibility within Shopify’s theme editor.
+I developed a custom Shopify section based on the Figma design provided. The section includes dynamic elements such as a circular path with numbering, custom typography, and image placements. The implementation was done using **HTML, CSS, and JavaScript** to ensure flexibility within Shopify’s theme editor.
+
 
 ### **Key Steps in Development:**
+- **Understanding the Design**  
+   - Extracted desktop and mobile layout details from the provided Figma file.  
+   - Ensured a **mobile-first approach** for better adaptability.
 - **Font Adjustments:** The font size from Figma was too large on the web version, so I manually adjusted sizes for better visual balance.
 - **SVG Path for Circular Numbering:** Since I hadn’t created a curved path with numbering before, I researched SVG techniques and used `path` with `textPath` to achieve the effect.
 - **Responsive Design:** Ensured the section adapts well to different screen sizes using CSS Flexbox and media queries.
