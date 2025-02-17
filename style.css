@@ -353,7 +353,7 @@ letter-spacing: 0%;
   .process-container::before {
     content: "";
     position: absolute;
-    left: 19%;
+    left: 5rem;
     transform: translateX(-50%);
     top: 345px;
     bottom: 50px;
@@ -370,7 +370,8 @@ letter-spacing: 0%;
     top: auto;
     margin: 0 auto 40px;
     height: 250px;
-    width:400px;
+    width:23rem;
+    padding: 0!important;
   }
 
   .process-desc{
