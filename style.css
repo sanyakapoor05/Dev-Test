@@ -355,7 +355,7 @@ letter-spacing: 0%;
     transform: translateX(-50%);
     top: 345px;
     bottom: 50px;
-    width: 10px;
+    width: 5px;
     height: 66%;
     background: #000;
     z-index: 1;
@@ -368,6 +368,7 @@ letter-spacing: 0%;
     top: auto;
     margin: 0 auto 40px;
     height: 250px;
+    width:400px;
   }
 
   .process-desc{
@@ -408,9 +409,7 @@ letter-spacing: 0%;
     order: 1 !important;
     position: relative;
     z-index: 3;
-    width: 75px; /* Increased from 60px */
-    height: 75px; /* Increased from 60px */
-    border: 7px solid #f5f5f5; /* Increased from 6px */
+    border: none!important;
     font-size: 26px; /* Increased from 22px */
     margin-left: 20px;
     font-size: 22px;
