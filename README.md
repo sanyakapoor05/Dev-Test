@@ -18,7 +18,7 @@ I developed a custom Shopify section based on the Figma design provided. The sec
 ## **2. Challenges & Solutions**
 ### **1. Font Size Discrepancy**
 **Challenge:** The fonts from Figma appeared larger on the live website.  
-**Solution:** Reduced the font sizes using `rem` and `vw` units instead of `px` to ensure responsive scaling.
+**Solution:** Reduced the font size `px` to ensure responsive scaling.
 
 ### **2. Creating a Circular Path with Numbering**
 **Challenge:** Never created a circular path with numbers before.  
